@@ -26,6 +26,7 @@ const Contact = () => {
           console.log(error.text);
         }
       );
+      alert("Response has been Submitted")
   };
 
   return (
